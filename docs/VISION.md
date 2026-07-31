@@ -1,0 +1,1 @@
+LectuIA es una plataforma educativa impulsada por inteligencia artificial que incorpora a Lety, una asistente académica especializada en ayudar a los estudiantes a prepararse para sus clases.
